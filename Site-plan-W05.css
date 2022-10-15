@@ -1,0 +1,237 @@
+
+@import url('https://byui-wdd.github.io/wdd130/rafting_images/html_css_added_homepage.jpg');
+
+body {
+    font-family : "Gill Sans Extrabold", sans-serif;
+    }
+    h1, h2, h3, h4, h5, h6 {
+        font-family : "Gill Sans Extrabold", sans-serif;
+        }
+        
+        h4 {
+            color : #381d2a;
+            }
+
+main sectio{
+    text-align: ;
+}
+body {
+  body {
+    background-color: #fcfbfb; 
+}
+header {
+    background-color:rgba(20,30,13, .7);
+}
+nav a:hover {
+    background-color: black;
+}
+}
+  
+body {
+    max-width : 960px;
+    margin : 0 auto;
+    padding : 4em;
+    font-size : 18px;
+    text-align : center;
+    }
+    body {
+        background-color: #fcfbfb;
+        font-family: Raleway, Arial, sans-serif;
+        font-size: 22px;
+        margin: 0;
+        padding: 0;
+    }
+    h2 {
+        margin: 0;
+    }
+    img {
+        display : block;
+        margin : 0 auto;
+        max-width : 300px;
+        }
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--heading-font);
+  color: var(--headline-color-on-white);
+}
+h2 {
+    text-align : center;
+    }
+    hr {
+        height : 3px;
+        margin : 35px 0;
+        }
+        header {
+            padding : 1em;
+            text-align : center;
+            }
+            p {
+                p {
+                    padding : 1em;
+                    }
+            }
+header > h1, header > h2 {
+  color: var(--headline-color-on-color);
+}
+p {
+  font-family: var(--paragraph-font);
+  color: var(--paragraph-color);
+  padding: 1em;
+}
+.home-title {
+    font-family: 'Rock Salt', 'Bradley Hand', sans-serif;
+    font-size: 2em;
+}
+.msg {
+    background-color: #6f7364;
+    line-height: 1.5em;
+  }
+.colors {
+    width : 100%;
+    min-width : 350px;
+    margin : 30px auto;
+    text-align : center;
+    }
+    .colors th {
+        background-color : #999;
+        }
+        .colors td {
+            width : 25%;
+            height : 3em;
+            }
+.primary {
+  background-color: var(--primary-color);
+}
+.secondary {
+  background-color: var(--secondary-color);
+}
+.accent1 {
+  background-color: var(--accent1-color);
+}
+.accent2{
+  background-color: var(--accent2-color);
+}
+p.colored {
+  background-color: var(--paragraph-background-color);
+  color: var(--paragraph-color-on-color);
+}
+nav {
+  nav a:hover {
+    background-color: black;
+    color: #d9c2a3;
+}
+}
+nav {
+    line-height : 3em;
+    text-align : center;
+    font-size : 1.2em;
+    }
+nav {
+
+}nav {
+list-style-type : none;
+display : flex;
+}
+nav a {
+    padding : 1em;
+    min-width : 120px;
+    text-decoration : none;
+    padding : 10px;
+    }
+    nav a {
+        text-decoration: none;
+        color: #fcfbfb;
+        text-align: center;
+        padding: 35px;
+    }
+nav a:link, nav a:visited {
+  color: var(--nav-link-color);
+}
+nav a:hover {
+  color: var(--nav-hover-link-color);
+  background-color: var(--nav-hover-background-color);
+}
+.sitemap {
+    display : grid;
+    justify-content : center;
+    grid-template-columns : repeat(6,15%);
+    grid-template-rows : 3em 1.5em 1.5em 3em;
+    grid-template-areas : ". . home home . ." ". . . top . ." ". left left right right ." "page2 page2 . . page3 page3";
+    }
+    .sitemap > div {
+        text-align : center;
+        }
+nav{
+  nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}
+}
+.sm-home {
+    grid-area : home;
+    background-color : #ccc;
+    line-height : 3em;
+    }
+    .book, .join {
+        background-color : #d9c2a3;
+        color : black;
+        text-decoration : none;
+        font-size : 18px;
+        padding : 15px 30px;
+        margin-top : 50px;
+        }
+        .book, .join {
+            background-color : #d9c2a3;
+            color : black;
+            text-decoration : none;
+            font-size : 18px;
+            padding : 15px 30px;
+            margin-top : 50px;
+            border-radius : 5px;
+            }
+    .card-img {
+        border: 10px solid #d9c2a3;
+    }
+    main section img {
+        box-sizing: border-box;
+    }
+    .sm-page1 {
+        grid-area : page1;
+        background-color : #ccc;
+        line-height : 1em;
+        }
+    .sm-page2 {
+        grid-area : page2;
+        background-color : #ccc;
+        line-height : 3em;
+        }
+        .sm-page3 {
+            grid-area : page3;
+            background-color : #ccc;
+            line-height : 3em;
+            }
+            .top {
+                grid-area : top;
+                border-left : 1px solid;
+                }
+                .left {
+                    grid-area : left;
+                    border-top : 1px solid;
+                    border-left : 1px solid;
+                    }
+                    .right {
+                        grid-area : right;
+                        border-top : 1px solid;
+                        border-right : 1px solid;
+                        }
+footer {
+  footer p {
+    font-size: 1.2em;
+}
+}
+footer {
+
+}
+footer p a:hover {
+    text-decoration : underline;
+    }
